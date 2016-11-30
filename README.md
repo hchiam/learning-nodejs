@@ -1,6 +1,7 @@
 # nodejsSandbox
 My Node.js sandbox.
 
+# tutorial 1:
 [LearnCode.academy tutorial on YouTube](https://www.youtube.com/watch?annotation_id=annotation_444363647&feature=iv&index=3&list=PLoYCgNOIyGAApoDfJHjmMgGNlYenKg5jO&src_vid=pU9Q6oiQNd0&v=FqMIyTH9wSg)
 
 #Terminal/Command-Line commands and localhost:
@@ -63,3 +64,6 @@ sudo npm install -g nodemon
 ```
 nodemon bin/www
 ```
+
+# tutorial 2:
+http://tutorialzine.com/2012/08/nodejs-drawing-game/

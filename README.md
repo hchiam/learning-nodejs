@@ -67,3 +67,25 @@ nodemon bin/www
 
 # tutorial 2:
 http://tutorialzine.com/2012/08/nodejs-drawing-game/
+
+The following steps assume you're using Terminal/Command-Line.
+
+You may need to enter this command to install node.js if you don't already have it installed:
+
+`
+npm install socket.io@0.9.10 node-static
+`
+
+Download the "drawinggame" folder from this repo to get its contents.
+
+Navigate to the "drawinggame" folder so that you're on the same directory level as "app.js".
+
+Enter this command to run the app:
+
+`
+node app.js 
+`
+
+Open the "index.html" file in your browser (e.g. Firefox).
+
+To stop running node, hit Ctrl+C in Terminal/Command-Line.

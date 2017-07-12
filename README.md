@@ -1,4 +1,5 @@
 # Learning Node.js
+Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## tutorial 1:
 [LearnCode.academy tutorial on YouTube](https://www.youtube.com/watch?annotation_id=annotation_444363647&feature=iv&index=3&list=PLoYCgNOIyGAApoDfJHjmMgGNlYenKg5jO&src_vid=pU9Q6oiQNd0&v=FqMIyTH9wSg)

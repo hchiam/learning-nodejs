@@ -1,4 +1,10 @@
+https://www.freecodecamp.com/hchiam
+
+Ctrl+f for: 'node'
+
 http://evanhahn.com/understanding-express/
+
+Example:
 
 ```js
 // Require what we need

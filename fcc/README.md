@@ -12,13 +12,14 @@ var http = require("http");
 
 // create server response
 var app = http.createServer(function(request, response) {
-  response.writeHead(200, {
-    "Content-Type": "text/plain"
-  });
+  // setup/notify response type
+  response.writeHead(200, { "Content-Type": "text/plain" });
+  // send response
   response.end("Hello world!\n");
 });
 
 // turn server on
 app.listen(1337, "localhost");
+// notify on terminal
 console.log("Server running at http://localhost:1337/");
 ```

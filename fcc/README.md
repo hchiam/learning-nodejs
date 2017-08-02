@@ -7,10 +7,10 @@ http://evanhahn.com/understanding-express/
 Example:
 
 ```js
-// Require what we need
+// import module
 var http = require("http");
 
-// Build the server
+// create server response
 var app = http.createServer(function(request, response) {
   response.writeHead(200, {
     "Content-Type": "text/plain"
@@ -18,7 +18,7 @@ var app = http.createServer(function(request, response) {
   response.end("Hello world!\n");
 });
 
-// Start that server, baby
+// turn server on
 app.listen(1337, "localhost");
 console.log("Server running at http://localhost:1337/");
 ```

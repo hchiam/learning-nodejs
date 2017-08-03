@@ -23,3 +23,9 @@ app.listen(1337, "localhost");
 // notify on terminal
 console.log("Server running at http://localhost:1337/");
 ```
+
+## Using Express as middleware for Node (and using Pug):
+
+https://gist.github.com/EvanHahn/5673968
+
+http://evanhahn.com/wp-content/uploads/2013/05/anime.html

@@ -89,3 +89,6 @@ node app.js
 Open the "index.html" file in your browser (e.g. Firefox).
 
 To stop running node, hit Ctrl+C in Terminal/Command-Line.
+
+## tutorial 3:
+https://github.com/hchiam/learning-nodejs/tree/master/fcc

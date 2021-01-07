@@ -93,7 +93,7 @@ To stop running node, hit Ctrl+C in Terminal/Command-Line.
 ## tutorial 3:
 https://github.com/hchiam/learning-nodejs/tree/master/fcc
 
-## read a local file:
+## read a local file via console CLI:
 
 ```js
 // TODO: file name goes here

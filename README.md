@@ -111,3 +111,7 @@ function processFileText(text) {
    console.log(text);
 }
 ```
+
+## more JS stuff:
+
+https://github.com/hchiam/learning-js

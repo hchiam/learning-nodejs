@@ -112,6 +112,14 @@ function processFileText(text) {
 }
 ```
 
+## Random notes:
+
+```bash
+npm -g i # do outside of a repo!!!!! somehow knows it's in a repo and does weird things, or at least in older npm versions
+
+npm cache verify # to clean up unused versions??? also do outside of a repo
+```
+
 ## more JS stuff:
 
 https://github.com/hchiam/learning-js

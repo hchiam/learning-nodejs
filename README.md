@@ -123,3 +123,5 @@ npm cache verify # to clean up unused versions??? also do outside of a repo
 ## more JS stuff:
 
 https://github.com/hchiam/learning-js
+
+https://github.com/hchiam/learning-js/tree/master/generate_folder_with_color_theme

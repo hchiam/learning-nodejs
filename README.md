@@ -124,6 +124,8 @@ Troubleshooting updating node:
 
 https://stackoverflow.com/a/12570971
 
+https://stackoverflow.com/a/26919540
+
 ```sh
 # this may not work:
 brew upgrade node

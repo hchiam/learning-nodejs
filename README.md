@@ -11,7 +11,7 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 - install node and check version of node and of npm (node package manager) that came with it
   - npm lets you install dependencies and do package management
 
-```
+```sh
 install node.js
 node -v
 npm -v

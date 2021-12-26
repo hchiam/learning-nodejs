@@ -120,6 +120,22 @@ npm -g i # do outside of a repo!!!!! somehow knows it's in a repo and does weird
 npm cache verify # to clean up unused versions??? also do outside of a repo
 ```
 
+Troubleshooting updating node:
+
+https://stackoverflow.com/a/12570971
+
+```sh
+# this may not work:
+brew upgrade node
+# so just go with the download option:
+```
+
+https://nodejs.org
+
+```sh
+nvm install v16.13.1; node --version
+```
+
 ## more JS stuff:
 
 https://github.com/hchiam/learning-js

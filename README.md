@@ -136,6 +136,7 @@ https://nodejs.org
 
 ```sh
 nvm install v16.13.1; node --version
+nvm alias default 16
 ```
 
 ## more JS stuff:

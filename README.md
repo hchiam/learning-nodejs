@@ -67,6 +67,13 @@ sudo npm install -g nodemon
 nodemon bin/www
 ```
 
+- example usage of nodemon
+
+```
+nodemon -x 'echo "command to rerun on save";';
+nodemon -e html 'echo "this will include watching html files"';
+```
+
 ## tutorial 2:
 
 http://tutorialzine.com/2012/08/nodejs-drawing-game/

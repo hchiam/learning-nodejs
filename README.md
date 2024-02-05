@@ -98,7 +98,7 @@ To stop running node, hit Ctrl+C in Terminal/Command-Line.
 
 ## tutorial 3:
 
-https://github.com/hchiam/learning-nodejs/tree/master/fcc
+https://github.com/hchiam/learning-nodejs/tree/main/fcc
 
 ## read a local file via console CLI:
 
@@ -153,4 +153,4 @@ I also saw [some weird error](https://stackoverflow.com/questions/44316064/gyp-e
 
 https://github.com/hchiam/learning-js
 
-https://github.com/hchiam/learning-js/tree/master/generate_folder_with_color_theme
+https://github.com/hchiam/learning-js/tree/main/generate_folder_with_color_theme

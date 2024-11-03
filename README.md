@@ -149,6 +149,12 @@ nvm alias default 16
 
 I also saw [some weird error](https://stackoverflow.com/questions/44316064/gyp-err-build-error-stack-error-make-failed-with-exit-code-2) and it seemed to go away when I uninstalled and re-installed [`yarn`](https://github.com/hchiam/learning-yarn).
 
+To check what's globally installed with npm: (at depth 0)
+
+```sh
+npm list -g --depth=0
+```
+
 ## more JS stuff:
 
 https://github.com/hchiam/learning-js
